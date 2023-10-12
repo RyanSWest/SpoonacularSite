@@ -13,6 +13,27 @@
   }
 }
 
+.container {
+  border: 2px solid rgb(13, 0, 255);
+  background-color: aquamarine;
+  background-color: #282c34;
+
+}
+.item{
+  border: 4px solid white;
+  border-radius: 10px;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:75%;
+  margin: 10px;
+
+
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
